@@ -1,0 +1,10 @@
+torch==2.6.*
+torchvision==0.21.*
+numpy>=1.26
+diffusers>=0.30
+einops>=0.8
+webdataset>=0.2
+pillow>=10
+tqdm>=4.66
+huggingface-hub>=0.23
+safetensors>=0.4
